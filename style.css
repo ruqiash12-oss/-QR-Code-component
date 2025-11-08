@@ -46,11 +46,12 @@ p{
         display: block;
     }
     .qr-code{
-        padding: 2rem;    
+        padding: 2rem;
+        
     }
     .card{
         width: 300px;
-        margin: 2rem;
+        margin: 2rem 3rem;
         padding: 1rem;
     }
     h2{
@@ -60,4 +61,5 @@ p{
     p{
         width: 250px;
     }
+
 }
