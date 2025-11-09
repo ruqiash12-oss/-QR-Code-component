@@ -46,8 +46,7 @@ p{
         display: block;
     }
     .qr-code{
-        padding: 2rem;
-        
+        padding: 2rem;    
     }
     .card{
         width: 300px;
@@ -61,5 +60,4 @@ p{
     p{
         width: 250px;
     }
-
 }
