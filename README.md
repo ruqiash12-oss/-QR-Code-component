@@ -11,10 +11,9 @@ Use Google Fonts (Outfit) with weights 400 and 700.
 
 Improve semantic HTML and visual hierarchy.
 
-📸 Screenshot
 
 🚀 Live Site
-🔗 View Live (Replace with your actual GitHub Pages link)
+🔗 View Live https://ruqiash12-oss.github.io/-QR-Code-component/
 
 🛠️ Built With
 Semantic HTML5
